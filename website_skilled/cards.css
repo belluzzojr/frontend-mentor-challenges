@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background: linear-gradient(180deg, #FFFFFF 0%, #F0F1FF 100%);
+}
+
+section > .line{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    gap: 45px;
+}
+
+#box{
+    display: flex;
+    width: 350px;
+    height: 322px;
+    background: linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+    border-radius: 15px;
+    align-items: center;
+}
+
+#box > h1{
+    margin-left: 65px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    color: #FFFFFF;
+}
+
+.otherbox{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 350px;
+    height: 322px;
+    background: #ffffff;
+    box-shadow: 0px 25px 50px rgba(6, 22, 141, 0.0442381);
+    border-radius: 15px;
+    gap: 15px;
+    border: 3px solid #F0F1FF;
+}
+
+.otherbox> h1{
+    margin-top: 20px;
+    margin-left: 10px;
+    color: #13183F;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+
+}
+
+.otherbox > p {
+    margin-left: 10px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #83869A;
+    max-width: 95%;
+
+}
+
+.otherbox > .imagetext{
+    position: absolute;
+    transform: translateY(-40px)
+}
+
+.specialbutton{
+    margin-top: 60px;
+    margin-right: 200px;
+    background: transparent;
+    border-style: none;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    color: #F74780;
+    
+}

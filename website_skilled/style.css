@@ -1,0 +1,125 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700;800&display=swap');
+
+header{
+    height: 60px;
+    width: 100%;
+}
+
+main {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 60px;
+    align-items: center;
+
+}
+
+#containertext{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100vh;
+}
+
+#containertext > h1 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 56px;
+}
+
+#containertext > p{
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+#containertext > input {
+    width: 167px;
+    height: 56px;
+    background: linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+    border-radius: 28px;
+    border-style: none;
+    color: white;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+#getstarted {
+    width: 167px;
+    height: 56px;
+    background-color: #13183F;
+    border-radius: 28px;
+    border-color: #13183F;
+    color: white;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+input > h1 {
+    color: white;
+}
+
+#imghero {
+    width: 50%;
+    height: 100vh;
+    overflow: hidden;
+    transform: translateY(-60px);
+}
+
+#imghero > img {
+    transform: translateX(180px);
+}
+
+footer {
+    background-color:#13183F;
+    width: 100%;
+    height: 120px;
+    margin-top: 20px;
+}
+
+#specialfooter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#specialfooter > img{
+    margin-left: 60px;
+    margin-top: 45px;
+    width: 111.17px;
+    height: 27.68px;
+}
+
+#buttonfinish{
+    width: 167px;
+    height: 56px;
+    background: linear-gradient(180deg, #4851FF -54.32%, #F02AA6 100%);
+    border-radius: 28px;
+    border-style: none;
+    color: white;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 700;
+    margin-right: 60px;
+    margin-top: 28px;
+}
