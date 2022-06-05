@@ -1,4 +1,6 @@
-<h1> Skilled Challenger </h1>
+<h1 align="center"> Skilled Challenger </h1>
+
+<p align="center"> Check out images of the final result below. </p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/98968823/172031352-a56d9adc-7dcd-461c-90ac-f673020cccf7.png" width="700px" />
