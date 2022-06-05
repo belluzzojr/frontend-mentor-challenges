@@ -1,6 +1,4 @@
-<div align="center" size: 20px>
-Check out images of the final result below.
-  </div>
+<h1> Skilled Challenger </h1>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/98968823/172031352-a56d9adc-7dcd-461c-90ac-f673020cccf7.png" width="700px" />
