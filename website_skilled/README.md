@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" size: 20px>
 Check out images of the final result below.
   </div>
 
