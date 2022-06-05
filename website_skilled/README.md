@@ -5,5 +5,5 @@
   <img src="https://user-images.githubusercontent.com/98968823/172031416-ead7c71a-5e05-4e9d-8de3-65207095ac0e.png" width="700px" />
   </div>
   <hr>
-### challenge made by <a href="https://github.com/belluzzojr"> frontend mentor</a>
+### challenge made by <a href="https://www.frontendmentor.io/hiring"> frontend mentor</a>
   
