@@ -6,7 +6,7 @@
   </div>
   <hr>
 <div align="center">
-  challenge made by <a href="https://www.frontendmentor.io/hiring"> frontend mentor</a>
+  Challenge made by <a href="https://www.frontendmentor.io/hiring"> frontend mentor</a>
   <p> This challenge is made up of HTML and CSS </p>
   </div>
   
