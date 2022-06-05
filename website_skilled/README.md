@@ -1,4 +1,3 @@
-# Skilled Challenger
 # Check out images of the final result below. 
 
 <div align="center">
