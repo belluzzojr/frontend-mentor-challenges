@@ -4,8 +4,8 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/98968823/172438040-fa8942e7-3a6c-49f7-8bb5-9664f5243e55.png" width="700px" />
-  <img src="https://user-images.githubusercontent.com/98968823/172435251-526c5143-2957-45d7-bdca-ba3aab4a7b08.png" width="700px" />
-  <img src="https://user-images.githubusercontent.com/98968823/172435002-e9169467-a0de-4dad-b214-0de9a882a337.png" width="700px" />
+  <img src="https://user-images.githubusercontent.com/98968823/172438343-ec9403a2-98ed-462a-b2b0-9b720df87251.png" width="700px" />
+  <img src="https://user-images.githubusercontent.com/98968823/172438461-6569ceb5-de73-4e08-806b-e7a6fb511673.png" width="700px" />
   </div>
 <div align="center">
   Challenge made by <a href="https://www.frontendmentor.io/hiring"> Frontend Mentor</a>
