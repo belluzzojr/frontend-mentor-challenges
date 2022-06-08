@@ -6,7 +6,7 @@
 
 This repository was created to show my challenges proposed by [Frontend Mentors](https://www.frontendmentor.io).
 
-<h1> About Front-End Mentor </h1>
+<h1> About </h1>
 
 <p>Frontend mentor aims to improve frontend skills by creating real projects, solving HTML, CSS and JavaScript challenges while working with professional projects.</p>
 
