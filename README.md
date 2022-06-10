@@ -17,5 +17,5 @@ This repository was created to show my challenges proposed by [Frontend Mentors]
 |  [Skilled](https://github.com/belluzzojr/frontend-mentor-challenges/tree/main/website_skilled) | HTML, CSS |
 |  [Blogr](https://github.com/belluzzojr/frontend-mentor-challenges/tree/main/website_blogr) | HTML, CSS |
 |  [Pod](https://github.com/belluzzojr/frontend-mentor-challenges/tree/main/website_pod) | HTML, CSS, JS |
-|  [?](https://github.com/belluzzojr) | HTML, CSS, JS |
-|  [?](https://github.com/belluzzojr) | HTML, CSS, JS |
+|  [Fylo](https://github.com/belluzzojr) | HTML, CSS, JS |
+|  [Loop Studios](https://github.com/belluzzojr) | HTML, CSS, JS |
