@@ -19,3 +19,6 @@ This repository was created to show my challenges proposed by [Frontend Mentors]
 |  [Pod](https://github.com/belluzzojr/frontend-mentor-challenges/tree/main/website_pod) | HTML, CSS, JS |
 |  [Fylo](https://github.com/belluzzojr) | HTML, CSS, JS |
 |  [Loop Studios](https://github.com/belluzzojr) | HTML, CSS, JS |
+|  [Easy Bank](https://github.com/belluzzojr) | HTML, CSS, JS |
+|  [Rock, Paper and Scissons](https://github.com/belluzzojr) | HTML, CSS, JS |
+
