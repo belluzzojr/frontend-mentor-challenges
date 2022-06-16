@@ -1,0 +1,60 @@
+section{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    justify-content: center;
+}
+
+#texts{
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    transform: translateY(100px);
+}
+
+#texts > h1{
+    width: 506px;
+    height: 100px;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+}
+
+#texts > p{
+    width: 563px;
+    height: 48px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 16;
+    color: white;
+}
+
+#texts > a{
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+}
+
+#texts > a::after{
+    content: " ";
+    width: 158px;
+    height: 1px;
+    background-color: white;
+    position: absolute;
+    left: 0;
+    transform: translateY(25px);
+}
+
+/* Section 2 */
+
+#secspecial {
+    transform: translateX(-20px);
+}
+
+#cardspecial {
+    margin-top: 10px;
+    transform: translateX(50px);
+}

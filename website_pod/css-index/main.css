@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+/* Base Main */ 
+
+main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 80px;
+}
+
+main > #base{
+    display: flex;
+    flex-direction: column;
+    z-index: 2;
+    background-color: #121725;
+    fill: solid;
+    gap: 20px;
+    width: 723px;
+    height: 509px;
+    margin-right: -100px;
+}
+
+#base > h1{
+    font-family: 'Chivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    color: #54E6AF;
+}
+
+#base > p{
+    font-family: 'Chivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #C2CBE5;
+}
+
+#imgbase {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+
+
+/* IMG Main */
+
+main .imgmain{
+    width: 962px;
+    height: 642px;
+    background: url('../images/image-host.jpg');
+    background-size: cover;
+}
+
+#details{
+    margin-top: 620px;
+    transform: translateX(-230px);
+}
