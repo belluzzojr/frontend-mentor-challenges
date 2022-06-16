@@ -1,4 +1,4 @@
-<h1 align="center"> Blogr Challenger </h1>
+<h1 align="center"> Pod Challenger </h1>
 
 <p align="center"> Check out images of the final result below. </p>
 
