@@ -21,4 +21,3 @@ This repository was created to show my challenges proposed by [Frontend Mentors]
 |  [Easy Bank](https://github.com/belluzzojr) | HTML, CSS, JS |
 |  [Loop Studios](https://github.com/belluzzojr) | HTML, CSS, JS |
 |  [Rock, Paper and Scissons](https://github.com/belluzzojr) | HTML, CSS, JS |
-
