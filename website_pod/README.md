@@ -1,6 +1,6 @@
 <h1 align="center"> Pod Challenger </h1>
 
-<p align="center"> Check out images of the final result below. </p>
+<p align="center"> Check below images of how it is currently, not finished </p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/98968823/173575046-2eac0579-5eb4-4adf-a12e-a3d88aa484e5.png" width="700px" />
