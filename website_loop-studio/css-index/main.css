@@ -14,7 +14,7 @@ main {
     height: 317px;
     background-color: #F2F2F2;
     transform: translate(-150px, 270px);
-    padding: 40px 60px;
+    padding: 40px 40px;
 }
 
 #textmain > h1{
@@ -43,5 +43,7 @@ main {
 #container {
     display: flex;
     flex-direction: row;
-    padding: 100px 120px;
+    padding: 40px 40px;
+    margin-top: 60px;
+    margin-left: 50px;
 }
