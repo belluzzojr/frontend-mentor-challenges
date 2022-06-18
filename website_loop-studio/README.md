@@ -8,6 +8,6 @@
   </div>
 <div align="center">
   Challenge made by <a href="https://www.frontendmentor.io/hiring"> Frontend Mentor</a>
-  <p> This challenge is made up of HTML and CSS </p>
+  <p> This challenge is made up of HTML, CSS and JS </p>
   </div>
   
