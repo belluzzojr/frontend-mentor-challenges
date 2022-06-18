@@ -1,8 +1,6 @@
 header {
     height: 650px;
     width: 100%;
-    min-height: 100vh;
-    position: absolute;
     background: url(../images-index/image-hero.jpg);
     background-size: cover;
     background-repeat: none;
