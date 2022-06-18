@@ -42,7 +42,8 @@ main > p{
 }
 
 #mainbutton:hover {
-    background-color: #89f3ff;
+    font-size: 17px;
+    font-weight: bold;
 }
 
 .space{

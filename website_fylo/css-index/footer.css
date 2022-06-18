@@ -8,11 +8,16 @@ footer > #struturefooter{
     position: absolute;
     display: flex;
     flex-direction: column;
-    margin-top: 140px;
-    margin-left: 340px;
-    gap: 3rem;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 100px;
+    padding: 30px 70px;
     width: 1200px;
     height: 219px;
+}
+
+#img{
+    margin-left: 50px;
 }
 
 #navfooter{
@@ -22,7 +27,7 @@ footer > #struturefooter{
 }
 
 #navfooter > p{
-    margin-left: 40px;
+    margin-left: 120px;
     width: 339px;
     height: 72px;
     font-family: 'Open Sans';
@@ -37,7 +42,7 @@ footer > #struturefooter{
     flex-direction: column;
     gap: 0.5rem;
 }
-#listinfo li {
+#listinfo li{
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
@@ -54,10 +59,17 @@ footer > #struturefooter{
     list-style: none;
 }
 
-.listnav > li{
+.listnav > li a{
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     color: #FFFFFF;
+}
+
+.listnav li a:hover{
+    font-family: 'Open Sans';
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
 }
