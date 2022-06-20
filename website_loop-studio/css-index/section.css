@@ -1,9 +1,9 @@
 section{
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    gap: 1.8rem;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .rowcard{
@@ -17,7 +17,6 @@ section{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-left: 270px;
     width: 1111px;
     height: 44px;
 }
