@@ -37,8 +37,8 @@ nav li a{
     border-color: white;
     width: 650px;
     height: 278px;
-    margin-top: 35px;
-    margin-left: 100px;
+    transform: translateX(80px);
+    position: absolute;
 }
 
 .mainfooter > #text{
