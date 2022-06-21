@@ -21,6 +21,7 @@ footer{
 }
 
 .alignlist li a{
+    position: relative;
     font-family: 'Alata';
     font-style: normal;
     font-weight: 400;
@@ -29,8 +30,22 @@ footer{
     color: #FFFFFF;
 }
 
-.alignlist ul li a{
+.alignlist li a{
     text-decoration: none;
+}
+
+.alignlist li a::after{
+    display: block;
+    position: absolute;
+    content: "";
+    background-color: white;
+    height: 2px;
+    width: 0;
+    transition: 0.8s;
+}
+
+.alignlist li a:hover::after{
+    width: 100%;
 }
 
 #centerfooter{

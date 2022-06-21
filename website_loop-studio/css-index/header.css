@@ -24,6 +24,7 @@ nav ul{
 }
 
 nav li a{
+    position: relative;
     font-family: 'Alata';
     font-style: normal;
     font-weight: 400;
@@ -33,14 +34,21 @@ nav li a{
     list-style: none;
     text-decoration: none;
     padding: 0 5px;
+    letter-spacing: 0.4px;
 }
 
 nav li a::after{
-    content: "";
+    display: block;
     position: absolute;
+    content: "";
     background-color: white;
-    height: 3px;
-    width: 24px;
+    height: 2px;
+    width: 0;
+    transition: 0.8s;
+}
+
+nav li a:hover::after{
+    width: 100%;
 }
 
 .mainfooter{
