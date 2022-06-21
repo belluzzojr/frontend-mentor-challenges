@@ -4,6 +4,7 @@ header {
     background: url(../images-index/image-hero.jpg);
     background-size: cover;
     background-repeat: none;
+    min-height: 50vh;
 }
 
 nav {
@@ -28,8 +29,18 @@ nav li a{
     font-weight: 400;
     font-size: 15px;
     color: #FFFFFF;
+    background-color: none;
     list-style: none;
     text-decoration: none;
+    padding: 0 5px;
+}
+
+nav li a::after{
+    content: "";
+    position: absolute;
+    background-color: white;
+    height: 3px;
+    width: 24px;
 }
 
 .mainfooter{
