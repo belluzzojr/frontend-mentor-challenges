@@ -40,12 +40,17 @@ section{
 
 #texts > a::after{
     content: " ";
-    width: 158px;
+    width: 0;
     height: 1px;
     background-color: white;
     position: absolute;
+    display: block;
     left: 0;
-    transform: translateY(25px);
+    transition: 0.6s;
+}
+
+#texts > a:hover::after{
+    width: 158px;
 }
 
 /* Section 2 */
