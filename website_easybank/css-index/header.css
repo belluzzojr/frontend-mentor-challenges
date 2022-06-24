@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+header{
+    height: 80px;
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+    background: #FFFFFF;
+}
+
+nav {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 3rem;
+}
+nav ul {
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+    list-style: none;
+}
+
+nav ul li a{
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: -0.1px;
+    color: #9597A5;
+    text-decoration: none;
+}
+
+nav input{
+    background: linear-gradient(135deg, #33D35E 0%, #2AB6D9 99.58%);
+    border-radius: 22px;
+    border-style: none;
+    width: 163px;
+    height: 44px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    color: #FFFFFF;
+    transform: translateY(-10px);
+}
