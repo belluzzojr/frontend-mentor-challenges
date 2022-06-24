@@ -64,7 +64,6 @@ section{
     display: flex;
     flex-direction: column;
     transform: translateY(-100px);
-    background-color: red;
 }
 
 #sectionstart{
