@@ -20,4 +20,4 @@ This repository was created to show my challenges proposed by [Frontend Mentors]
 |  [Fylo](https://github.com/belluzzojr) | HTML, CSS, JS |
 |  [Loop Studio](https://github.com/belluzzojr) | HTML, CSS, JS |
 |  [Easy Bank](https://github.com/belluzzojr) | HTML, CSS, JS |
-|  [Rock, Paper and Scissons](https://github.com/belluzzojr) | HTML, CSS, JS |
+|  [Rock, Paper and Scissons](https://github.com/belluzzojr) | HTML, CSS, JS, REACT |
