@@ -4,7 +4,7 @@ header{
     height: 80px;
     width: 100%;
     position: absolute;
-    z-index: 1;
+    z-index: 2;
     background: #FFFFFF;
 }
 
@@ -30,6 +30,10 @@ nav ul li a{
     letter-spacing: -0.1px;
     color: #9597A5;
     text-decoration: none;
+}
+
+nav ul li a:hover{
+    color: black;
 }
 
 nav input{

@@ -48,43 +48,12 @@ main {
     color: #FFFFFF;
 }
 
-#cellphonesview{
+#cellphonesview {
+    z-index: 1;
     background-image: url(../images-index/bg-intro-desktop.svg);
-
 }
 
 #aligncel{
     z-index: 1;
     transform: translate(130px, -25px);
-}
-
-/* Section */
-
-section{
-    display: flex;
-    flex-direction: column;
-    transform: translateY(-100px);
-}
-
-#sectionstart{
-    width: 635px;
-    height: 136px;
-}
-
-#sectionstart > h1{
-    font-family: 'Public Sans';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 40px;
-    letter-spacing: -0.714286px;
-    color: #2D314D;
-}
-
-#sectionstart > p{
-    font-family: 'Public Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    letter-spacing: -0.28125px;
-    color: #9597A5;
 }
