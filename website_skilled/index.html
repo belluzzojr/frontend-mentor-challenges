@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="css-index/style.css">
     <link rel="stylesheet" href="css-index/cards.css">
     <link rel="stylesheet" href="css-index/global.css">
+    <script type="text/JavaScript" src="script.js"></script>
     <link rel="shortcut icon" href="images-index/favicon-32x32.png" type="image/x-icon">
 </head>
 <body style="background-color: white;">
@@ -16,16 +17,15 @@
             <div id="logo">
             <img src="images-index/logo-dark.svg" alt="">
         </div>
-            <input id="getstarted" type="button" value="Get Started">
+            <input type="button" value="Get Started" id="getstarted" onclick="dev()">
             </div>
     </header>
-    <a href=""></a>
     <main>
         <div id="containertext">
             <h1>Maximize skill,<br>
                 minimize budget</h1>
                 <p>Our modern courses across a range of in-demand <br>skills will give you the knowledge you need to live<br> the life you want.</p>
-                <input type="button" value="Get Startet">
+                <input type="button" value="Get Startet" onclick="dev()">
                 </div>
                 <div id="imghero">
                 <img src="images-index/image-hero-desktop.png" alt="">
@@ -34,6 +34,7 @@
     </main>
     <section>
         <div class="line">
+            <div class="linecard">
             <div id="box">
                 <h1>Check out our<br> most popular<br> courses!</h1>
             </div>
@@ -43,7 +44,7 @@
                 </div>
                 <h1>Animation</h1>
                 <p>Learn the latest animation techniques to create stunning motion design and captivate your audience.</p>
-                <input class="specialbutton" type="button" value="Get Started">
+                <input class="specialbutton" type="button" value="Get Started" onclick="dev()">
             </div>
             <div class="otherbox">
                 <div class="imagetext">
@@ -51,15 +52,17 @@
                 </div>
                 <h1>Design</h1>
                 <p>Create beautiful, usable interfaces to help shape the future of how the web looks.</p>
-                <input class="specialbutton" type="button" value="Get Started">
+                <input class="specialbutton" type="button" value="Get Started" onclick="dev()">
             </div>
+        </div>
+        <div class="linecard">
             <div class="otherbox">
                 <div class="imagetext">
                     <img src="images-index/icon-photography.svg" alt=""> 
                 </div>
                 <h1>Photography</h1>
                 <p>Explore critical fundamentals like lighting, composition, and focus to capture exceptional photos.</p>
-                <input class="specialbutton" type="button" value="Get Started">
+                <input class="specialbutton" type="button" value="Get Started" onclick="dev()">
             </div>
             <div class="otherbox">
                 <div class="imagetext">
@@ -67,7 +70,7 @@
                 </div>
                 <h1>Crypto</h1>
                 <p>All you need to know to get started investing in crypto. Go from beginner to advanced with this 54 hour course.</p>
-                <input class="specialbutton" type="button" value="Get Started">
+                <input class="specialbutton" type="button" value="Get Started" onclick="dev()">
             </div>
             <div class="otherbox">
                 <div class="imagetext">
@@ -75,8 +78,9 @@
                 </div>
                 <h1>Business</h1>
                 <p>A step-by-step playbook to help you start, scale, and sustain your business without outside investment.</p>
-                <input class="specialbutton" type="button" value="Get Started">
+                <input class="specialbutton" type="button" value="Get Started" onclick="dev()">
                 </div>
+            </div>
             </div>
         </div>
     </section>

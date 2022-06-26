@@ -5,6 +5,8 @@
 header{
     height: 60px;
     width: 100%;
+    z-index: 1;
+    position: absolute;
 }
 
 main {
@@ -13,6 +15,7 @@ main {
     justify-content: center;
     align-items: center;
     background-color: white;
+    overflow: hidden;
 }
 
 .container {
@@ -81,12 +84,10 @@ input > h1 {
 #imghero {
     width: 50%;
     height: 100vh;
-    overflow: hidden;
-    transform: translateY(-60px);
 }
 
-#imghero > img {
-    transform: translateX(180px);
+#imghero >img{
+    transform: translate(100px, -160px)
 }
 
 footer {

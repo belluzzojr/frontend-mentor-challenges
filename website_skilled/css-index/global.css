@@ -7,13 +7,38 @@ body {
 }
 
 @media (max-width: 600px){
+
+    #getstarted{
+        margin-left: 10px;
+    }
     #containertext {
         margin-left: 80px;
         width: 100%;
     }
 
+    #container > h1{
+        width: 50%;
+    }
+
+    #containertext > p{
+        margin-right: 30px;
+        width: 80%;
+    }
+
+    #containertext > input{
+        margin-right: 70px;
+    }
+
+    #imghero{
+        width: 0%;
+    }
+
     section{
-        flex-wrap: wrap
+        margin-left: 50px;
+    }
+
+    .linecard{
+        flex-wrap: wrap;
     }
 
 }

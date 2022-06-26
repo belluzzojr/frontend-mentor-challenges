@@ -9,9 +9,15 @@ section {
 }
 
 section > .line{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr; 
+    display: flex;
+    flex-direction: column;
     gap: 45px;
+}
+
+.linecard{
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
 }
 
 #box{
