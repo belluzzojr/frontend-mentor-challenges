@@ -3,8 +3,8 @@
 <p align="center"> Check below images of how it is currently, not finished </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/98968823/175825686-43149372-fb34-4b8c-bd9b-d75ff9937904.png" width="700px" />
-  <img src="https://user-images.githubusercontent.com/98968823/175825688-043d4d55-e914-4f0d-845f-11cf26e5a0d8.png" width="700px" />
+  <img src="https://user-images.githubusercontent.com/98968823/175991441-85f8c029-0ecd-44d9-a578-ba8f9ba3cfe1.png" width="700px" />
+  <img src="https://user-images.githubusercontent.com/98968823/175991444-939ab4aa-a308-4ee7-b0b1-a17cbf3e943d.png" width="700px" />
   </div>
 <div align="center">
   Challenge made by <a href="https://www.frontendmentor.io/hiring"> Frontend Mentor</a>
