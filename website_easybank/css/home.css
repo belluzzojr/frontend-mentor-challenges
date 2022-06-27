@@ -3,6 +3,8 @@
 @import "/css/components/invite-button.css";
 @import "/css/components/footer.css";
 
+/* Section */
+
 section :is(h1, h2, h3) {
     font-weight: 300;
     color: #2d314d;
@@ -50,16 +52,18 @@ section.hero img {
     width: 100%;
 }
 
-section.why {
+/* Global */
+
+.why {
     display: grid;
     place-items: center;
 
-    padding-block: 5rem;
+    padding-block: 2rem;
 
     background-color: #f4f5f7;
 }
 
-section.why .inner {
+.why .inner {
     width: min(75vw, 60rem);
 
     display: flex;
@@ -67,7 +71,9 @@ section.why .inner {
     gap: 1.5em;
 }
 
-section.why .cards {
+/* Cards Globais */
+
+.why .cards {
     align-self: center;
 
     display: grid;
@@ -77,7 +83,7 @@ section.why .cards {
     list-style: none;
 }
 
-section.why .card {
+.why .card {
     flex: 1;
 
     display: flex;
@@ -86,6 +92,33 @@ section.why .card {
     gap: 1em;
 
     padding: 1em;
-    border-radius: 0.5em;
-    border: 2px solid lightgray;
-    }
+}
+
+/* Article */
+
+article{
+    background-color: white;
+}
+
+article #miniletter{
+    font-size: 10px;
+    letter-spacing: 1px;
+}
+
+article p{
+    font-weight: 400px;
+    letter-spacing: 0.2px;
+    color: #9597A5;
+}
+
+article.why .card{
+    max-height: 24.6rem;
+}
+
+article.why .card img{
+    width: 100%;
+    height: 194.24px;
+}
+
+
+
