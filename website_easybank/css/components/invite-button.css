@@ -1,0 +1,12 @@
+button.invite {
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 1.5rem;
+    background-image: linear-gradient(135deg, #33d35e 0%, #2ab6d9 99.5%);
+
+    font-weight: 700;
+    color: white;
+} 
+button.invite:hover {
+    transform: scale(1.15);
+}
