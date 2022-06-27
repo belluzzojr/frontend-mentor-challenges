@@ -1,13 +1,20 @@
 @import "/css/global.css";
 @import "/css/components/header.css";
 @import "/css/components/invite-button.css";
-@import "/css/components/footer.css";
 
 /* Section */
 
-section :is(h1, h2, h3) {
+section{
+    background-color: #F4F5F7;;
+}
+
+section :is(h1, h3) {
     font-weight: 300;
     color: #2d314d;
+}
+
+section h2{
+    font-weight: bold;
 }
 
 section p {
@@ -97,12 +104,7 @@ section.hero img {
 /* Article */
 
 article{
-    background-color: white;
-}
-
-article #miniletter{
-    font-size: 10px;
-    letter-spacing: 1px;
+    background-color: #F2F2F2;
 }
 
 article p{
@@ -118,6 +120,16 @@ article.why .card{
 article.why .card img{
     width: 100%;
     height: 194.24px;
+}
+
+article :is(h1, h2, h3) {
+    font-weight: bold;
+}
+
+article h6{
+    font-weight: 400;
+    font-size: 10px;
+    letter-spacing: 1px;
 }
 
 
