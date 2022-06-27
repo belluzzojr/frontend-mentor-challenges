@@ -29,3 +29,9 @@ button {
     border-style: solid;
     cursor: pointer;
     }
+
+@media (max-width: 600px){
+    main {
+        overflow: hidden;
+    }
+}
