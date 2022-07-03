@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
+/* Header */
+
 header {
     display: flex;
     justify-content: space-around;
@@ -10,23 +12,19 @@ header {
     background: white;
 }
 
-header .logo {
-    width: clamp(5rem, 15vw, 8rem);
-}
-
-header nav {
+header nav ul {
     display: flex;
     gap: 0.5em;
 }
 
-header nav a {
+header nav ul a {
     padding: 0.5em;
 
     font-weight: 400;
     color: #9597a5;
 }
 
-header nav a:hover {
+header nav ul a:hover {
     color: black;
     transform: scale(1.15);
 }

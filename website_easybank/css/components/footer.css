@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+/* Footer */
+
+footer.why {
+    background-color: #2D314D;
+    padding-block: 1.8rem;
+}
+
+footer.why inner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+
+    padding-block: 1.5rem;
+}
+
+footer ul {
+    display: flex;
+}
+
+footer ul a {
+    padding: 0.4em;
+
+    font-weight: 400;
+    color: #9597a5;
+}

@@ -30,6 +30,14 @@ button {
     cursor: pointer;
     }
 
+    .logo {
+        width: clamp(5rem, 15vw, 8rem);
+    }
+    
+    .icons{
+        width: clamp(1.5rem, 8vw, 1.2rem);
+    }    
+
 @media (max-width: 600px){
     main {
         overflow: hidden;
