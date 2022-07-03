@@ -1,4 +1,4 @@
-<h1 align="center"> EasyBank Challenger </h1>
+<h1 align="center"> EasyBank </h1>
 
 <p align="center"> Check below images of how it is currently, not finished </p>
 
