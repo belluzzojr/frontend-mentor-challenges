@@ -11,6 +11,7 @@ This repository was created to show my challenges proposed by [Frontend Mentors]
 <p>Frontend mentor aims to improve frontend skills by creating real projects, solving HTML, CSS and JavaScript challenges while working with professional projects.</p>
 
 <h1> Challenges Met </h1>
+<p> The challenges are all being redone <p/>
 
 |Challenger | Technologies|
 |---|---|
