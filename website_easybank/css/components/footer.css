@@ -7,15 +7,6 @@ footer.why {
     padding-block: 1.8rem;
 }
 
-footer.why inner{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    flex-direction: row;
-
-    padding-block: 1.5rem;
-}
-
 footer ul {
     display: flex;
 }
