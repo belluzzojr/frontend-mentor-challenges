@@ -10,7 +10,7 @@
   <p align="center"> Mobile </p>
   <img src="https://user-images.githubusercontent.com/98968823/177054020-dbeb61da-f8b5-414a-b7cb-e8c2b9cd7da9.png" width="200px" height="280px" />
   <img src="https://user-images.githubusercontent.com/98968823/177054088-adb77b90-86ad-447b-94d9-d480c8a04361.png" width="200px" height="280px" />
-  <img src="https://user-images.githubusercontent.com/98968823/177379487-87e369bf-a6f3-4b6a-bceb-911040270a9c.png" width="200px" height="280px" />
+  <img src="https://user-images.githubusercontent.com/98968823/177380139-36a2aa07-005a-49c0-acc3-c8bf5cd6052b.png" width="200px" height="280px" />
   </div>
 <div align="center">
   Challenge made by <a href="https://www.frontendmentor.io/hiring"> Frontend Mentor</a>
