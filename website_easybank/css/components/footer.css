@@ -90,9 +90,9 @@ footer a:hover{
 @media(max-width: 600px) {
 
     footer.why .logo{
-        margin-left: 30px;
+        margin-left: 31.5px;
     }
-    
+
     .footerinner {
         flex-flow: column;
         align-items: center;
