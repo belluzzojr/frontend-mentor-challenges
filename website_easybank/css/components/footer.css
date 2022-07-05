@@ -4,7 +4,35 @@
 
 footer.why {
     background-color: #2D314D;
-    padding-block: 1.8rem;
+    padding-block: 1.4rem;
+}
+
+.footerinner{
+    width: min(80vw, 60rem);
+    justify-content: space-between;
+    display: flex;
+    flex-flow: row;
+}
+
+/* List Footer */
+
+.separate{ 
+    display: flex;
+    display: row;
+    gap: 2rem;
+}
+
+ul.listfooter{
+    display: flex;
+    flex-flow: column;
+}
+
+ul.listfooter a{
+    font-family: 'Public Sans';
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: -0.234375px;
+    color: white;
 }
 
 footer ul {
@@ -16,4 +44,43 @@ footer ul a {
 
     font-weight: 400;
     color: #9597a5;
+}
+
+/* Utils Footer */
+
+.utilsfooter{
+    display: flex;
+    flex-flow: column;
+    gap: 1rem;
+}
+
+.utilsfooter input{
+    background: linear-gradient(135deg, #33D35E 0%, #2AB6D9 99.58%);
+    border-radius: 22px;
+    border-color: none;
+    width: 163px;
+    height: 44px;
+    border-radius: 22px;
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.utilsfooter > h6{
+    font-family: 'Public Sans';
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: -0.234375px;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+/* Hover */
+
+footer a:hover{
+    filter: invert(30%);
+    transform: scale(1.15);
 }

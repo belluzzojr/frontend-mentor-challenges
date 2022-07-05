@@ -2,6 +2,8 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Public+Sans:wght@100&display=swap");
 
+/* Global */
+
 * {
     padding: 0;
     margin: 0;
@@ -28,18 +30,48 @@ button {
 button {
     border-style: solid;
     cursor: pointer;
-    }
+}
 
-    .logo {
-        width: clamp(5rem, 15vw, 8rem);
-    }
+/* Logo */ 
+
+.logo {
+    width: clamp(5rem, 15vw, 8rem);
+}
     
-    .icons{
-        width: clamp(1.5rem, 8vw, 1.2rem);
-    }    
+.icons{
+    width: clamp(1.5rem, 8vw, 1.2rem);
+}    
+
+.logoicons{
+    width: min(75vw, 15rem);
+    
+    display: flex;
+    flex-flow: column;
+    gap: 1.5em;
+}
+
+/* Responsive */
 
 @media (max-width: 600px){
     main {
         overflow: hidden;
     }
+
+    .logoicons{
+        transform: translateY(15px);
+    }
+    .icons{
+        width: min(5vw, 10rem);
+    }
+
+    .listfooter{
+        transform: translateY(15px);
+        margin-left: 10px;
+    }
+
+    .utilsfooter{
+        margin-left: 15px;
+        width: min(20vw, 10rem);
+    }
+
 }
