@@ -84,3 +84,30 @@ footer a:hover{
     filter: invert(30%);
     transform: scale(1.15);
 }
+
+/* Responsive Footer */
+
+@media(max-width: 600px) {
+    .footerinner {
+        flex-flow: column;
+        align-items: center;
+        gap: 2rem;
+    }
+
+    footer.why .logo{
+        margin-left: 30px;
+    }
+
+    .logoicons{
+        margin-left: 30px;
+    }
+
+    .listfooter{
+        margin-left: 40px;
+    }
+
+    .utilsfooter{
+        margin-left: 30px;
+    }
+
+} 

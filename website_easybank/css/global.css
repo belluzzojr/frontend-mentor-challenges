@@ -56,4 +56,9 @@ button {
     main {
         overflow: hidden;
     }
+
+    .text-wrap{
+        margin-left: 20px;
+    }
+
 }
