@@ -56,22 +56,4 @@ button {
     main {
         overflow: hidden;
     }
-
-    .logoicons{
-        transform: translateY(15px);
-    }
-    .icons{
-        width: min(5vw, 10rem);
-    }
-
-    .listfooter{
-        transform: translateY(15px);
-        margin-left: 10px;
-    }
-
-    .utilsfooter{
-        margin-left: 15px;
-        width: min(20vw, 10rem);
-    }
-
 }
