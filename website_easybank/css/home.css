@@ -6,6 +6,7 @@
 /* Section */
 
 section{
+    min-height: 50vh;
     background-color: #F4F5F7;;
 }
 

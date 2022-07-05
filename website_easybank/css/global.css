@@ -57,6 +57,10 @@ button {
         overflow: hidden;
     }
 
+    header{
+        margin-left: 5px;
+    }
+
     .text-wrap{
         margin-left: 20px;
     }

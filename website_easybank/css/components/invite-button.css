@@ -1,3 +1,7 @@
+@charset "UTF-8";
+
+/* Button */
+
 button.invite {
     padding: 0.5rem 1rem;
     border: none;
@@ -9,4 +13,12 @@ button.invite {
 } 
 button.invite:hover {
     transform: scale(1.15);
+}
+
+/* Responsive Botton */
+
+@media (max-width: 600px){
+    button.invite{
+        padding: 0.5rem;
+    }
 }
